@@ -1,0 +1,13 @@
+# generated / private - never commit
+release/
+OllamaModels/
+**/.venv/
+**/node_modules/
+**/__pycache__/
+frontend/dist/
+*.db
+backend/uploads/
+backend/data/words.txt
+launcher/.setup_done
+launcher/.update_stamp
+*.bak*
